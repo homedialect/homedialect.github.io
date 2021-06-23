@@ -52,7 +52,7 @@ body{
 
 .middle{
 	width:100%;
-	height:3000px;
+	height:5700px;
 	padding-top: 100px;
 }
 
@@ -66,6 +66,7 @@ body{
 	float: left;
 	width: 745px;
 	height: 560px;
+	margin-top: 40px;
 }
 
 .box2{
@@ -79,7 +80,6 @@ body{
 	float: left;
 	width: 245px;
 	height: 280px;
-	background-color: beige;
 	margin-left: 20px;
 	margin-top: 20px;
 }
@@ -94,10 +94,122 @@ body{
 .box5{
 	float: left;
 	width:430px;
-	height: 300px;
-	margin-left: 270px;
-	margin-top:190px;
+	height: 355px;
+	margin-left: 230px;
+	margin-top:186px;
 	}
+
+.box6{
+	float: left;
+	width: 500px;
+	height: 280px;
+}
+
+.box7{
+	float: left;
+	width:307px;
+	height:157px;
+	margin-left: -93px;
+}
+
+.box8{
+	float: left;
+	width: 270px;
+	height: 172px;
+	margin-left: -780px;
+	margin-top:230px;
+}
+
+.box9{
+	float: left;
+	width: 270px;
+	height: 172px;
+	margin-left: -780px;
+	margin-top:230px;
+}
+
+.box10{
+	float: left;
+	width:270px;
+	height: 172px;
+	margin-left: 190px;
+	margin-top:240px;
+}
+
+.box11{
+	float: left;
+	width:350px;
+	height:250px;
+	margin-left: 860px;
+	margin-top:30px;
+}
+
+.box12{
+	float: left;
+	width:350px;
+	height:270px;
+	margin-left: 860px;
+	margin-top:30px;
+}
+
+.box13{
+	float: left;
+	width:350px;
+	height:270px;
+	margin-left:-50px;
+	margin-top:15px;
+}
+
+.box14{
+	float: left;
+	width:273px;
+	height:150px;
+	margin-left:400px;
+	margin-top:15px;
+}
+
+.box15{  
+	float: left;
+	width:458px;
+	height:270px;
+	margin-left:400px;
+	margin-top:15px;
+}
+
+.box16{  
+	float: left;
+	width:450px;
+	height:305px;
+	margin-left:-80px;
+	margin-top:20px;
+}
+
+.box17{  
+	float: left;
+	width:450px;
+	height:305px;
+	margin-left:-460px;
+	margin-top:970px;
+}
+
+.box18{  
+	float: left;
+	width:400px;
+	height:800px;
+	margin-left:800px;
+	margin-top:350px;
+	background-color: aqua;
+}
+
+.box19{  
+	float: left;
+	width:450px;
+	height:305px;
+	margin-left:-1300px;
+	margin-top:1500px;
+	
+}
+
 
 .intro {
     position: relative;
@@ -114,8 +226,3 @@ body{
 	font-family: 'Noto Serif CJK TC', 'Noto Serif CJK TC Black', 'Noto Serif CJK TC Light';
   font-size: 14px;
 }
-
-
-
-
-

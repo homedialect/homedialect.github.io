@@ -54,7 +54,16 @@ body{
     position: relative;
     color: #343144;
     background: #fff;
-    padding: 6em 20em 14em 20em;
+    padding: 6em 20em 7em 20em;
+    font-family: 'Noto Serif CJK TC', 'Noto Serif CJK TC Black', 'Noto Serif CJK TC Light';
+    font-size: 14px;
+}
+
+.introtwo {
+    position: relative;
+    color: #343144;
+    background: #fff;
+    padding: 25em 20em 7em 20em;
     font-family: 'Noto Serif CJK TC', 'Noto Serif CJK TC Black', 'Noto Serif CJK TC Light';
     font-size: 14px;
 }
@@ -65,9 +74,37 @@ body{
     font-size: 15px;
 }
 
+
 .intro-text {
   position: relative;
-	width: 880px;
+	width: 890px;
 	font-family: 'Noto Serif CJK TC', 'Noto Serif CJK TC Black', 'Noto Serif CJK TC Light';
   font-size: 14px;
 }
+
+.middle{
+	width:100%;
+	height:200px;
+	}
+
+.center{
+	margin:3em 17em 10em ;
+	width:390px;
+	background-color: aliceblue;
+}
+
+.box01{
+	float: left;
+	width:400px;
+	height:100px;
+}
+
+.box02{
+	float: left;
+	width:291px;
+	height:196px;
+	margin-left: 596px;
+	background-color: aqua;
+}
+
+

@@ -114,10 +114,18 @@ body{
     display: block;
 }
 
-.box1{padding-right: 70px 70px 70px;
+.box1{
+	padding-right: 70px 70px 70px;
 	float: left;
 	width:900px;
 	height:200px;
+}
+
+.box2{
+	float:left;
+	width:400px;
+	height: 400px;
+	margin-left: 750px;
 }
 
 .center{
@@ -150,11 +158,12 @@ body{
   padding: 11.25em 5em 5em;
 }
 
-@media (max-width: 992px){
+.middle{
+	width:100%;
+	height:300px;
 }
 
-@media (max-width: 768px){
-}
-
-@media (max-width: 480px){
+.centertwo{
+	margin:0 auto;
+	width: 1010px;
 }
